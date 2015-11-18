@@ -3,4 +3,4 @@ import numpy as np
 for i in range(10):
     print("Ladida")
     print("ladoda")
-    print("hylla är på väggen!")
+    print("hyllan är på väggen!")
