@@ -1,6 +1,6 @@
 import numpy as np
 
-for i in range(10):
+for i in range(2):
     print("Ladida")
     print("ladoda")
     print("hyllan är på väggen!")
